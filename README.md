@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @JagadeshNayak
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning Machine Learning,Cloud Computing
+- 👀 I’m interested in DevOps Engineer
+- 🌱 I’m currently learning DevOps ,cloud computing
 - 📫 How to reach me https://www.linkedin.com/in/jagadesh-gugulothu-3a5085206
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Front end Developers are like digital wizards using their coding spells to create amazing websites
+- ⚡ Fun fact: DevOps engineers are the superheroes of software delivery, juggling code, infrastructure, and automation – basically, they're the reason your cat videos load so fast.
+
 
 <!---
 JagadeshNayak/JagadeshNayak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
